@@ -1,3 +1,3 @@
 # Greenmove
-Regenerative Gamification Reality ⏳
+Personal Green Action Tracker ⏳
 
